@@ -1,0 +1,5 @@
+{
+  "name": "财报分析大师（杜邦+DCF+桑基图版+主营）本地版",
+  "description": "Upload financial statement Excel/CSV files to automatically extract data and generate interactive DuPont analysis and ROE trend charts.",
+  "requestFramePermissions": []
+}
